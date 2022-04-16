@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/your-humor-deploy/static/js/3.a620750f.chunk.js"
   },
   {
-    "revision": "55661a5db1a542505a150e7dd394aee2",
+    "revision": "281b4d2ab613686b3c13f7b2fbc77323",
     "url": "/your-humor-deploy/index.html"
   }
 ];
