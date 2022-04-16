@@ -1,15 +1,15 @@
 {
   "main.css": "/your-humor-deploy/static/css/main.063fe5e4.chunk.css",
-  "main.js": "/your-humor-deploy/static/js/main.5209533b.chunk.js",
-  "main.js.map": "/your-humor-deploy/static/js/main.5209533b.chunk.js.map",
+  "main.js": "/your-humor-deploy/static/js/main.5ba794b7.chunk.js",
+  "main.js.map": "/your-humor-deploy/static/js/main.5ba794b7.chunk.js.map",
   "runtime~main.js": "/your-humor-deploy/static/js/runtime~main.8f446804.js",
   "runtime~main.js.map": "/your-humor-deploy/static/js/runtime~main.8f446804.js.map",
-  "static/js/2.f0815d8d.chunk.js": "/your-humor-deploy/static/js/2.f0815d8d.chunk.js",
-  "static/js/2.f0815d8d.chunk.js.map": "/your-humor-deploy/static/js/2.f0815d8d.chunk.js.map",
+  "static/js/2.15369ab4.chunk.js": "/your-humor-deploy/static/js/2.15369ab4.chunk.js",
+  "static/js/2.15369ab4.chunk.js.map": "/your-humor-deploy/static/js/2.15369ab4.chunk.js.map",
   "static/js/3.a620750f.chunk.js": "/your-humor-deploy/static/js/3.a620750f.chunk.js",
   "static/js/3.a620750f.chunk.js.map": "/your-humor-deploy/static/js/3.a620750f.chunk.js.map",
   "index.html": "/your-humor-deploy/index.html",
-  "precache-manifest.08dc5fb80835da6c7bb7399065bcfb69.js": "/your-humor-deploy/precache-manifest.08dc5fb80835da6c7bb7399065bcfb69.js",
+  "precache-manifest.673f0fb852cb74f945ae476137cdca62.js": "/your-humor-deploy/precache-manifest.673f0fb852cb74f945ae476137cdca62.js",
   "service-worker.js": "/your-humor-deploy/service-worker.js",
   "static/css/main.063fe5e4.chunk.css.map": "/your-humor-deploy/static/css/main.063fe5e4.chunk.css.map"
 }
