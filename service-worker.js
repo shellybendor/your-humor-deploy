@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/your-humor-deploy/precache-manifest.5fc7c2df01e98511b5c83fbb03769dba.js"
+  "/your-humor-deploy/precache-manifest.d8429dbbe1ee46ed33b68771c9e862e5.js"
 );
 
 workbox.clientsClaim();

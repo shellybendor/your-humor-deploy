@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c76b615a23f92dfaed4d",
+    "revision": "ab950d943cd7e5d47c87",
     "url": "/your-humor-deploy/static/css/main.063fe5e4.chunk.css"
   },
   {
-    "revision": "c76b615a23f92dfaed4d",
-    "url": "/your-humor-deploy/static/js/main.d1f5e8f6.chunk.js"
+    "revision": "ab950d943cd7e5d47c87",
+    "url": "/your-humor-deploy/static/js/main.be6167b0.chunk.js"
   },
   {
     "revision": "8330947132ac6d1564b3",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/your-humor-deploy/static/js/3.a620750f.chunk.js"
   },
   {
-    "revision": "834fb88e86e89d23004a2fd130983ff8",
+    "revision": "5d605f260bb5b23800f1acba49cc3a5b",
     "url": "/your-humor-deploy/index.html"
   }
 ];

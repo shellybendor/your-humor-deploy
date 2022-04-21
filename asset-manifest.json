@@ -1,7 +1,7 @@
 {
   "main.css": "/your-humor-deploy/static/css/main.063fe5e4.chunk.css",
-  "main.js": "/your-humor-deploy/static/js/main.d1f5e8f6.chunk.js",
-  "main.js.map": "/your-humor-deploy/static/js/main.d1f5e8f6.chunk.js.map",
+  "main.js": "/your-humor-deploy/static/js/main.be6167b0.chunk.js",
+  "main.js.map": "/your-humor-deploy/static/js/main.be6167b0.chunk.js.map",
   "runtime~main.js": "/your-humor-deploy/static/js/runtime~main.8f446804.js",
   "runtime~main.js.map": "/your-humor-deploy/static/js/runtime~main.8f446804.js.map",
   "static/js/2.d0d1c1b8.chunk.js": "/your-humor-deploy/static/js/2.d0d1c1b8.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.a620750f.chunk.js": "/your-humor-deploy/static/js/3.a620750f.chunk.js",
   "static/js/3.a620750f.chunk.js.map": "/your-humor-deploy/static/js/3.a620750f.chunk.js.map",
   "index.html": "/your-humor-deploy/index.html",
-  "precache-manifest.5fc7c2df01e98511b5c83fbb03769dba.js": "/your-humor-deploy/precache-manifest.5fc7c2df01e98511b5c83fbb03769dba.js",
+  "precache-manifest.d8429dbbe1ee46ed33b68771c9e862e5.js": "/your-humor-deploy/precache-manifest.d8429dbbe1ee46ed33b68771c9e862e5.js",
   "service-worker.js": "/your-humor-deploy/service-worker.js",
   "static/css/main.063fe5e4.chunk.css.map": "/your-humor-deploy/static/css/main.063fe5e4.chunk.css.map"
 }
